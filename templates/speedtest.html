@@ -1,0 +1,27 @@
+
+{% extends 'base.html' %}
+
+    {% block content %}
+
+        <div class="container">
+            <div class="speedometer">
+                <div class="needle" id="needle"></div>
+            </div>
+            <div class="speed">
+                <div class="column">
+                    <img class="icons" src="static/img/download-icon.svg" /><div><span id="download_speed">0</span> Mbps</div>
+                </div>
+                <div class="column">
+                    <img class="icons" src="static/img/upload-icon.svg" /><div><span id="upload_speed">0</span> Mbps</div>
+                </div>
+                <div class="column">
+                    <img class="icons" src="static/img/ms-icon.svg" /><div><span id="ping_result">0</span> ms</div>
+                </div>
+                <div class="column">
+                    <img class="icons" src="static/img/server-icon.svg" /><span id="server_result">N/A</span>
+                </div>
+            </div>
+            <button id="startButton">Iniciar Teste de Velocidade</button>
+            <script src="static/js/speedtest.js"></script>
+        </div>
+    {% endblock %}

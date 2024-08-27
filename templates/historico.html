@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container">
+    <div class="historico">
+        <div class="lista">
+            <table class="table">
+                <thead>
+                    <tr class="fixed-row">
+                        <th>DOWNLOAD SPEED</th>
+                        <th>UPLOAD SPEED</th>
+                        <th>PING</th>
+                        <th>SERVER</th>
+                        <th>EXECUTADO</th>
+                    </tr>
+                </thead>
+                    <tbody class="tbody">
+                        {% for item in items %}
+                            <tr>
+                                <td>{{ item.download_speed }}</td>
+                                <td>{{ item.upload_speed }}</td>
+                                <td>{{ item.ping }}ms</td>
+                                <td>{{ item.server }}</td>
+                                <td>{{ item.timestamp }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+    
+{% endblock %}

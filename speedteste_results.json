@@ -1,0 +1,219 @@
+[
+    {
+        "download_speed": 554,
+        "upload_speed": 371,
+        "ping": 18,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:10:38.410977"
+    },
+    {
+        "download_speed": 713,
+        "upload_speed": 528,
+        "ping": 17,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:16:11.176138"
+    },
+    {
+        "download_speed": 631,
+        "upload_speed": 283,
+        "ping": 19,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:16:22.842774"
+    },
+    {
+        "download_speed": 550,
+        "upload_speed": 451,
+        "ping": 27,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:16:25.980044"
+    },
+    {
+        "download_speed": 796,
+        "upload_speed": 361,
+        "ping": 18,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:16:34.553936"
+    },
+    {
+        "download_speed": 657,
+        "upload_speed": 577,
+        "ping": 22,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:30:04.655732"
+    },
+    {
+        "download_speed": 556,
+        "upload_speed": 381,
+        "ping": 21,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:30:55.794863"
+    },
+    {
+        "download_speed": 395,
+        "upload_speed": 600,
+        "ping": 20,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:30:57.888580"
+    },
+    {
+        "download_speed": 616,
+        "upload_speed": 383,
+        "ping": 17,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-25T23:31:08.475514"
+    },
+    {
+        "download_speed": 371,
+        "upload_speed": 458,
+        "ping": 27,
+        "server": "NOXY TELECOM",
+        "timestamp": "2024-08-25T23:31:14.815262"
+    },
+    {
+        "download_speed": 729,
+        "upload_speed": 621,
+        "ping": 20,
+        "server": "Rede Mineira",
+        "timestamp": "2024-08-26T13:03:13.978374"
+    },
+    {
+        "download_speed": 551,
+        "upload_speed": 696,
+        "ping": 11,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T15:41:15.207112"
+    },
+    {
+        "download_speed": 810,
+        "upload_speed": 704,
+        "ping": 10,
+        "server": "Claro Net V\u00edrtua",
+        "timestamp": "2024-08-26T15:41:25.334558"
+    },
+    {
+        "download_speed": 641,
+        "upload_speed": 711,
+        "ping": 7,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T15:42:05.921864"
+    },
+    {
+        "download_speed": 743,
+        "upload_speed": 200,
+        "ping": 8,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T15:42:30.203714"
+    },
+    {
+        "download_speed": 705,
+        "upload_speed": 573,
+        "ping": 8,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T15:42:40.561529"
+    },
+    {
+        "download_speed": 860,
+        "upload_speed": 662,
+        "ping": 8,
+        "server": "Claro Net V\u00edrtua",
+        "timestamp": "2024-08-26T15:43:06.591081"
+    },
+    {
+        "download_speed": 618,
+        "upload_speed": 635,
+        "ping": 6,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T15:43:17.918981"
+    },
+    {
+        "download_speed": 733,
+        "upload_speed": 696,
+        "ping": 10,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T15:43:38.161156"
+    },
+    {
+        "download_speed": 748,
+        "upload_speed": 673,
+        "ping": 17,
+        "server": "Claro Net V\u00edrtua",
+        "timestamp": "2024-08-26T15:43:48.444288"
+    },
+    {
+        "download_speed": 664,
+        "upload_speed": 198,
+        "ping": 8,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T15:44:16.664777"
+    },
+    {
+        "download_speed": 808,
+        "upload_speed": 686,
+        "ping": 10,
+        "server": "Claro Net V\u00edrtua",
+        "timestamp": "2024-08-26T16:14:50.073579"
+    },
+    {
+        "download_speed": 723,
+        "upload_speed": 693,
+        "ping": 10,
+        "server": "Claro Net V\u00edrtua",
+        "timestamp": "2024-08-26T16:15:10.304251"
+    },
+    {
+        "download_speed": 701,
+        "upload_speed": 723,
+        "ping": 8,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T16:15:20.664733"
+    },
+    {
+        "download_speed": 694,
+        "upload_speed": 685,
+        "ping": 8,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T16:15:51.626691"
+    },
+    {
+        "download_speed": 736,
+        "upload_speed": 765,
+        "ping": 10,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T16:16:01.949471"
+    },
+    {
+        "download_speed": 811,
+        "upload_speed": 744,
+        "ping": 11,
+        "server": "Claro Net V\u00edrtua",
+        "timestamp": "2024-08-26T17:31:11.083781"
+    },
+    {
+        "download_speed": 734,
+        "upload_speed": 712,
+        "ping": 8,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T17:31:21.276393"
+    },
+    {
+        "download_speed": 783,
+        "upload_speed": 686,
+        "ping": 9,
+        "server": "Claro Net V\u00edrtua",
+        "timestamp": "2024-08-26T17:31:41.643464"
+    },
+    {
+        "download_speed": 700,
+        "upload_speed": 635,
+        "ping": 8,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T17:31:51.935753"
+    },
+    {
+        "download_speed": 744,
+        "upload_speed": 709,
+        "ping": 7,
+        "server": "Su@net Provedor",
+        "timestamp": "2024-08-26T17:32:02.087599"
+    }
+]

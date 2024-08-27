@@ -1,0 +1,62 @@
+.ul-result {
+    list-style: none;
+}
+.li-result {
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+}
+.speedometer {
+    width: 300px;
+    height: 150px;
+    position: relative;
+    border-radius: 150px 150px 0 0;
+    background: #1b1d21;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+.needle {
+    width: 10px;
+    height: 140px;
+    background: #009373;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform-origin: bottom center;
+    transform: rotate(-90deg);
+    transition: transform 0.1s ease-out;
+}
+.speed {
+    display: flex;
+    text-align: center;
+    gap: 50px;
+    margin-top: 20px;
+    font-size: 24px;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+#startButton {
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: block;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #009373;
+}
+#startButton:hover {
+    cursor: pointer;
+    background-color: #08a885;
+    transition: 0.5s ease;
+}
+#startButton.disabled {
+    background-color: #03614c;
+    cursor: not-allowed;
+}
+.icons {
+    width: 100px;
+    color:#009373
+}
