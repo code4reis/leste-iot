@@ -13,16 +13,18 @@
                         <th>UPLOAD (MB)</th>
                     </tr>
                 </thead>
-                    <tbody class="tbody">
-                        {% for item in items %}
-                            <tr>
-
-                            </tr>
-                        {% endfor %}
-                    </tbody>
+                <tbody class="tbody">
+                    {% for item in items %}
+                    <tr>
+                        <td>{{item.Hora}}</td>
+                        <td>{{item['Download (MB)']}}</td>
+                        <td>{{item['Upload (MB)']}}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
             </table>
         </div>
     </div>
 </div>
-    
+
 {% endblock %}
