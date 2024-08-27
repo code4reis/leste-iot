@@ -22,5 +22,8 @@ app.register_blueprint(history_app)
 from consumo import app as consumo_app
 app.register_blueprint(consumo_app)
 
+from domaintest import app as domaintest_app
+app.register_blueprint(domaintest_app)
+
 if __name__ == '__main__':
     app.run('192.168.100.107', debug=True)

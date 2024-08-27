@@ -45,6 +45,7 @@
     display: block;
     padding: 10px 20px;
     font-size: 18px;
+    width: 250px;
     background-color: #009373;
 }
 #startButton:hover {
