@@ -14,13 +14,13 @@
                     </tr>
                 </thead>
                 <tbody class="tbody">
-                    {% for item in items %}
+                    {% for total in totais %}
                     <tr>
-                        <td>{{item.Hora}}</td>
-                        <td>{{item['Download (MB)']}}</td>
-                        <td>{{item['Upload (MB)']}}</td>
+                        <th>{{total['Data']}}</th>
+                        <td>{{ "%.2f" | format(total['Total Download (MB)']) }}</td>
+                        <td>{{ "%.2f" | format(total['Total Upload (MB)']) }}</td>
                     </tr>
-                    {% endfor %}
+                    {% endfor %} 
                 </tbody>
             </table>
         </div>

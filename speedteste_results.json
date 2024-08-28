@@ -215,5 +215,439 @@
         "ping": 7,
         "server": "Su@net Provedor",
         "timestamp": "2024-08-26T17:32:02.087599"
+    },
+    {
+        "download_speed": 835,
+        "upload_speed": 656,
+        "ping": 10,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T17:31:38.534908"
+    },
+    {
+        "download_speed": 782,
+        "upload_speed": 718,
+        "ping": 7,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T17:31:53.742532"
+    },
+    {
+        "download_speed": 629,
+        "upload_speed": 699,
+        "ping": 8,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T17:32:06.931704"
+    },
+    {
+        "download_speed": 789,
+        "upload_speed": 613,
+        "ping": 9,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T17:32:22.209802"
+    },
+    {
+        "download_speed": 764,
+        "upload_speed": 722,
+        "ping": 10,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T17:33:41.751994"
+    },
+    {
+        "download_speed": 809,
+        "upload_speed": 476,
+        "ping": 8,
+        "server": "Conect",
+        "timestamp": "2024-08-28T17:39:08.952521"
+    },
+    {
+        "download_speed": 833,
+        "upload_speed": 717,
+        "ping": 7,
+        "server": "Conect",
+        "timestamp": "2024-08-28T17:39:21.514536"
+    },
+    {
+        "download_speed": 675,
+        "upload_speed": 564,
+        "ping": 8,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T18:09:55.601533"
+    },
+    {
+        "download_speed": 765,
+        "upload_speed": 596,
+        "ping": 8,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T18:10:20.123235"
+    },
+    {
+        "download_speed": 742,
+        "upload_speed": 767,
+        "ping": 7,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T18:10:39.050022"
+    },
+    {
+        "download_speed": 818,
+        "upload_speed": 413,
+        "ping": 10,
+        "server": "Conect",
+        "timestamp": "2024-08-28T18:10:54.252543"
+    },
+    {
+        "download_speed": 585,
+        "upload_speed": 542,
+        "ping": 9,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T18:11:10.528547"
+    },
+    {
+        "download_speed": 791,
+        "upload_speed": 203,
+        "ping": 11,
+        "server": "Conect",
+        "timestamp": "2024-08-28T18:28:16.126771"
+    },
+    {
+        "download_speed": 800,
+        "upload_speed": 701,
+        "ping": 8,
+        "server": "Conect",
+        "timestamp": "2024-08-28T18:28:27.351670"
+    },
+    {
+        "download_speed": 649,
+        "upload_speed": 625,
+        "ping": 11,
+        "server": "Conect",
+        "timestamp": "2024-08-28T18:46:51.588442"
+    },
+    {
+        "download_speed": 788,
+        "upload_speed": 555,
+        "ping": 14,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T18:47:11.833105"
+    },
+    {
+        "download_speed": 750,
+        "upload_speed": 525,
+        "ping": 14,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T18:47:26.083218"
+    },
+    {
+        "download_speed": 716,
+        "upload_speed": 655,
+        "ping": 7,
+        "server": "Ing.net.br",
+        "timestamp": "2024-08-28T18:47:42.248072"
+    },
+    {
+        "download_speed": 807,
+        "upload_speed": 671,
+        "ping": 8,
+        "server": "Conect",
+        "timestamp": "2024-08-28T18:47:55.378426"
+    },
+    {
+        "download_speed": 822,
+        "upload_speed": 371,
+        "ping": 8,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:06:36.626959"
+    },
+    {
+        "download_speed": 822,
+        "upload_speed": 503,
+        "ping": 8,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:06:48.266320"
+    },
+    {
+        "download_speed": 852,
+        "upload_speed": 593,
+        "ping": 6,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:06:58.453689"
+    },
+    {
+        "download_speed": 769,
+        "upload_speed": 443,
+        "ping": 8,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:07:09.661227"
+    },
+    {
+        "download_speed": 840,
+        "upload_speed": 485,
+        "ping": 10,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:07:20.793598"
+    },
+    {
+        "download_speed": 637,
+        "upload_speed": 442,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:08:13.726024"
+    },
+    {
+        "download_speed": 781,
+        "upload_speed": 664,
+        "ping": 8,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:08:23.943268"
+    },
+    {
+        "download_speed": 771,
+        "upload_speed": 734,
+        "ping": 14,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:08:35.079135"
+    },
+    {
+        "download_speed": 817,
+        "upload_speed": 699,
+        "ping": 9,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:08:45.195456"
+    },
+    {
+        "download_speed": 802,
+        "upload_speed": 504,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:08:56.335241"
+    },
+    {
+        "download_speed": 552,
+        "upload_speed": 407,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:10:13.835928"
+    },
+    {
+        "download_speed": 795,
+        "upload_speed": 447,
+        "ping": 8,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:10:24.965090"
+    },
+    {
+        "download_speed": 830,
+        "upload_speed": 720,
+        "ping": 8,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:10:35.104519"
+    },
+    {
+        "download_speed": 818,
+        "upload_speed": 687,
+        "ping": 7,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:10:45.224195"
+    },
+    {
+        "download_speed": 814,
+        "upload_speed": 522,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:10:56.435430"
+    },
+    {
+        "download_speed": 845,
+        "upload_speed": 446,
+        "ping": 6,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:16:11.969867"
+    },
+    {
+        "download_speed": 839,
+        "upload_speed": 406,
+        "ping": 9,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:16:23.112612"
+    },
+    {
+        "download_speed": 766,
+        "upload_speed": 337,
+        "ping": 8,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:16:35.311837"
+    },
+    {
+        "download_speed": 811,
+        "upload_speed": 508,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:16:46.452916"
+    },
+    {
+        "download_speed": 783,
+        "upload_speed": 484,
+        "ping": 8,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:16:57.656003"
+    },
+    {
+        "download_speed": 847,
+        "upload_speed": 532,
+        "ping": 8,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:17:14.664389"
+    },
+    {
+        "download_speed": 752,
+        "upload_speed": 671,
+        "ping": 8,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:17:24.829103"
+    },
+    {
+        "download_speed": 782,
+        "upload_speed": 562,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:17:36.058887"
+    },
+    {
+        "download_speed": 832,
+        "upload_speed": 497,
+        "ping": 6,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:17:47.185978"
+    },
+    {
+        "download_speed": 826,
+        "upload_speed": 698,
+        "ping": 7,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:17:57.297911"
+    },
+    {
+        "download_speed": 740,
+        "upload_speed": 434,
+        "ping": 9,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:21:16.394835"
+    },
+    {
+        "download_speed": 805,
+        "upload_speed": 666,
+        "ping": 7,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:21:26.617886"
+    },
+    {
+        "download_speed": 768,
+        "upload_speed": 519,
+        "ping": 8,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:21:37.860885"
+    },
+    {
+        "download_speed": 772,
+        "upload_speed": 415,
+        "ping": 6,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:21:49.090903"
+    },
+    {
+        "download_speed": 842,
+        "upload_speed": 516,
+        "ping": 6,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:22:00.209862"
+    },
+    {
+        "download_speed": 806,
+        "upload_speed": 540,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:31:09.379018"
+    },
+    {
+        "download_speed": 814,
+        "upload_speed": 741,
+        "ping": 7,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:31:20.344745"
+    },
+    {
+        "download_speed": 799,
+        "upload_speed": 465,
+        "ping": 7,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:31:31.613822"
+    },
+    {
+        "download_speed": 814,
+        "upload_speed": 393,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T19:31:42.749712"
+    },
+    {
+        "download_speed": 794,
+        "upload_speed": 690,
+        "ping": 8,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T19:31:52.774134"
+    },
+    {
+        "download_speed": 829,
+        "upload_speed": 702,
+        "ping": 8,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T20:08:13.382158"
+    },
+    {
+        "download_speed": 831,
+        "upload_speed": 516,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T20:08:24.525382"
+    },
+    {
+        "download_speed": 717,
+        "upload_speed": 523,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T20:08:35.829857"
+    },
+    {
+        "download_speed": 832,
+        "upload_speed": 729,
+        "ping": 8,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T20:19:40.135755"
+    },
+    {
+        "download_speed": 820,
+        "upload_speed": 505,
+        "ping": 7,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T20:19:51.475188"
+    },
+    {
+        "download_speed": 803,
+        "upload_speed": 455,
+        "ping": 6,
+        "server": "CRUISER",
+        "timestamp": "2024-08-28T20:20:02.670256"
+    },
+    {
+        "download_speed": 784,
+        "upload_speed": 720,
+        "ping": 9,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T20:20:12.915825"
+    },
+    {
+        "download_speed": 797,
+        "upload_speed": 663,
+        "ping": 7,
+        "server": "Vtal",
+        "timestamp": "2024-08-28T20:20:23.189136"
     }
 ]
