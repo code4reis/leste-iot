@@ -649,5 +649,47 @@
         "ping": 7,
         "server": "Vtal",
         "timestamp": "2024-08-28T20:20:23.189136"
+    },
+    {
+        "download_speed": 702,
+        "upload_speed": 538,
+        "ping": 32,
+        "server": "RealData Telecom",
+        "timestamp": "2024-08-28T22:15:33.264693"
+    },
+    {
+        "download_speed": 548,
+        "upload_speed": 356,
+        "ping": 20,
+        "server": "RealData Telecom",
+        "timestamp": "2024-08-28T22:16:17.829945"
+    },
+    {
+        "download_speed": 512,
+        "upload_speed": 529,
+        "ping": 21,
+        "server": "RealData Telecom",
+        "timestamp": "2024-08-28T22:17:01.436356"
+    },
+    {
+        "download_speed": 742,
+        "upload_speed": 435,
+        "ping": 20,
+        "server": "RealData Telecom",
+        "timestamp": "2024-08-28T22:17:43.876922"
+    },
+    {
+        "download_speed": 535,
+        "upload_speed": 524,
+        "ping": 19,
+        "server": "RealData Telecom",
+        "timestamp": "2024-08-28T22:18:27.486658"
+    },
+    {
+        "download_speed": 741,
+        "upload_speed": 316,
+        "ping": 25,
+        "server": "NOXY TELECOM",
+        "timestamp": "2024-08-28T23:09:41.238182"
     }
 ]
