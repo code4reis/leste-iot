@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, render_template, Blueprint
+from flask import render_template, Blueprint
 
 app = Blueprint('home',__name__)
 

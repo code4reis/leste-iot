@@ -691,5 +691,40 @@
         "ping": 25,
         "server": "NOXY TELECOM",
         "timestamp": "2024-08-28T23:09:41.238182"
+    },
+    {
+        "download_speed": 649,
+        "upload_speed": 385,
+        "ping": 33,
+        "server": "RealData Telecom",
+        "timestamp": "2024-08-29T00:51:49.319416"
+    },
+    {
+        "download_speed": 826,
+        "upload_speed": 818,
+        "ping": 7,
+        "server": "Acesse Wi-Fi",
+        "timestamp": "2024-08-29T03:49:40.367834"
+    },
+    {
+        "download_speed": 771,
+        "upload_speed": 644,
+        "ping": 16,
+        "server": "NETPLANETY INFOTELECOM LTDA",
+        "timestamp": "2024-08-29T04:31:32.218137"
+    },
+    {
+        "download_speed": 612,
+        "upload_speed": 409,
+        "ping": 30,
+        "server": "Zoenet",
+        "timestamp": "2024-08-29T13:21:06.386693"
+    },
+    {
+        "download_speed": 510,
+        "upload_speed": 462,
+        "ping": 26,
+        "server": "Zoenet",
+        "timestamp": "2024-08-29T13:42:40.480454"
     }
 ]

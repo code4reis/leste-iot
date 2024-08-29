@@ -1,6 +1,11 @@
-from flask import Flask, Blueprint
+from config import *
+from flask import Flask
 from flask_cors import CORS
+
+# Instancia Flask
 app = Flask(__name__)
+
+# CORS, para permitir requisições de mesma origem http
 CORS(app)
 
 
@@ -22,8 +27,14 @@ app.register_blueprint(history_app)
 from consumo import app as consumo_app
 app.register_blueprint(consumo_app)
 
-# from domaintest import app as domaintest_app
-# app.register_blueprint(domaintest_app)
-
 if __name__ == '__main__':
-    app.run('192.168.100.107', debug=True)
+    ssl_context = None
+    if SSL_CERTIFICATE:
+        ssl_context=(CRT_PATH, KEY_PATH)
+
+    app.run(
+        host=APLICATION_IP,
+        port=int(APLICATION_PORT),
+        ssl_context=ssl_context,
+        debug=DEBUG_MODE
+    )

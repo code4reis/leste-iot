@@ -1,5 +1,6 @@
-from flask import Flask, request, jsonify, render_template, Blueprint
+from flask import render_template, Blueprint
 import json
+
 app = Blueprint('historico',__name__)
 
 @app.route('/historico')

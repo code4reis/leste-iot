@@ -1,8 +1,7 @@
-from flask import Flask, request, jsonify, render_template, Blueprint
+from flask import request, jsonify, Blueprint
 import json
 import os
 from datetime import datetime
-import requests
 
 
 app = Blueprint('save_speed', __name__)

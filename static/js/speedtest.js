@@ -23,7 +23,7 @@ async function startSpeedTest() {
             document.getElementById("server_result").textContent = data.server.sponsor;
 
             // Enviar dados para o servidor Flask
-            await fetch('http://192.168.100.107:5000/save_speedteste', {
+            await fetch(`${agentUrl}/save_speedteste`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
